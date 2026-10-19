@@ -404,6 +404,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
 
 <br />
+- [Castov](https://github.com/castovdev/castov) - Zero-telemetry local developer execution layer with 10 deterministic tools for port inspection, IPv4 CIDR subnet calculation, UUIDv7/ULID/Snowflake timestamp decoding, cron scheduling, IANA timezone conversion, offline JWT inspection, and secret leak scanning.
 
 ## 📊 <a name="data-visualization"></a>Data Visualization
 
